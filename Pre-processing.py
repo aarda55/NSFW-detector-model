@@ -1,12 +1,11 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import os 
 import cv2
 import random
 import pickle
 import time
 
-#defines catagories for seperation
+#defines catagories for classification
 DATADIR = "ai_antip/images"
 CATEGORIES = ["NSFW","normal"]
 IMG_SIZE = 80
