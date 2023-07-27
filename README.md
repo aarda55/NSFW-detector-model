@@ -15,8 +15,8 @@ Can seperate NSFW from non-NSFW images with a 84% accuracy.
 ----------------------------------------------------------------------------------------------------------------------------
 Future plans:
 -usage in real software or website.
-
 -increase of accuracy (Epoch count was set low because this was just experimental).
+
 ----------------------------------------------------------------------------------------------------------------------------
 Credit: Usage of Dataset: EBazarov
 
