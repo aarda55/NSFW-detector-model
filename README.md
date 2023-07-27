@@ -4,6 +4,7 @@ This is a Deep learning model, which can differentiate NSFW images from non-NSFW
 ----------------------------------------------------------------------
 
 Objective of Software:
+
 Seperation of NSFW from non-NSFW images. 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -14,11 +15,13 @@ Use of assisting software:
 
 ----------------------------------------------------------------------------------------------------------------------------
 End progress of Software:
+
 Can seperate NSFW from non-NSFW images with a 84% accuracy.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 Future plans:
+
 -usage in real software or website.
 -increase of accuracy (Epoch count was set low because this was just experimental).
 
